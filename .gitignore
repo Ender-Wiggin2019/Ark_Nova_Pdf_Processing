@@ -1,7 +1,10 @@
 .env
 .vscode
 .DS_Store
-.json
+json
 *EN.pdf
 /images
 /.ipynb_checkpoints
+*.xlsx
+*.pdf
+*.csv
